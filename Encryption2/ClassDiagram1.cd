@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Encryption2.DoubleEncryption" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>EncryptionAlgoritem\DoubleEncryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.EncryptionAlgoritem" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAACgAAAAAAA=</HashCode>
+      <FileName>EncryptionAlgoritem\EncryptionAlgoritem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Encryption2.RepeatEncryption" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EncryptionAlgoritem\RepeatEncryption.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.21" Collapsed="true" />
+  </Class>
+  <Class Name="Encryption2.ShiftMultiplyEncryption" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAAA=</HashCode>
+      <FileName>EncryptionAlgoritem\ShiftMultiplyEncryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.ShiftUpEncryption" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAAA=</HashCode>
+      <FileName>EncryptionAlgoritem\ShiftUpEncryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.Encryptor" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAEgAAAAIAABAAAAAACgAIAEAAAAAAQAAAIAAAAI=</HashCode>
+      <FileName>Encryptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.Program" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.Validator" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAkAAAAAAAAAEAABwAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.FileHandler.FileEncryptor" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAgAkAAAAAAAAAAAAIAAAAAAACAAAAAAAIAIAAAAA=</HashCode>
+      <FileName>FileHandler\FileEncryptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.FileHandler.FileManager" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>FileHandler\FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.IO.ConsoleIO" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IO\ConsoleIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryption2.IO.FileIO" Collapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IO\FileIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Encryption2.IEncryptionAlgoritem" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EncryptionAlgoritem\IEncryptionAlgoritem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Encryption2.IO.IIO" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\IIO.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
